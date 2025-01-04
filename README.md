@@ -1,5 +1,8 @@
-<img width="288" alt=![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 08](https://github.com/user-attachments/assets/05c318cd-13d8-4a2f-80c3-57904a1a1db1)>
-<img width="288" alt=![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 36](https://github.com/user-attachments/assets/69fdd173-493e-44b2-a1a3-b2239c343fe2)>
+<img width="288" alt="Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 08" src="https://github.com/riitterz/ScanAppSwiftUI/assets/91329962/7d7655c5-0c95-42a0-ae98-ba3c8f820c66">
+<img width="288" alt="Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 36" src="https://github.com/riitterz/ScanAppSwiftUI/assets/91329962/7d7655c5-0c95-42a0-ae98-ba3c8f820c66">
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 08](https://github.com/user-attachments/assets/05c318cd-13d8-4a2f-80c3-57904a1a1db1)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 02 36](https://github.com/user-attachments/assets/69fdd173-493e-44b2-a1a3-b2239c343fe2)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 03 01](https://github.com/user-attachments/assets/b0139c4f-e580-472d-bd2b-1defb9fc72ec)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 03 06](https://github.com/user-attachments/assets/1956d59f-5450-4fab-ba88-91ffb663b689)
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2025-01-04 at 15 03 14](https://github.com/user-attachments/assets/e68a3e10-9ee4-4f48-b5d0-15a29961f2d3)
